@@ -1,0 +1,22 @@
+{
+  "name": "testpay",
+  "version": "1.0.0",
+  "description": "Pay with Testpay",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run build && mocha --require babel-register"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soumya-vats/test-repo-node.git"
+  },
+  "keywords": [
+    "testpay"
+  ],
+  "author": "Soumya <soumyavatstest@gmail.com> (http://test.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soumya-vats/test-repo-node/issues"
+  },
+  "homepage": "https://github.com/soumya-vats/test-repo-node#readme"
+}
