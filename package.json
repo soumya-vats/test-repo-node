@@ -2,7 +2,7 @@
   "name": "testpay-again",
   "version": "2.0.0",
   "description": "Pay with Testpay",
-  "main": "index.js",
+  "main": "PaytmChecksum.js",
   "scripts": {
     "test": "npm run build && mocha --require babel-register"
   },
